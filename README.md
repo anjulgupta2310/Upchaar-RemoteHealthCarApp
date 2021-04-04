@@ -8,17 +8,11 @@
 ## Project Details
 
 This is a mobile based application in react-native language and database authentication from google firebase targeting both Android and IoS mo-
-bile devices. The thought process behind the application is to have an efficient and
-
-easy to use platform for people.The application provides a platform for the medi-
+bile devices. The thought process behind the application is to have an efficient and easy to use platform for people.The application provides a platform for the medi-
 cal healthcare professionals so that they can register themselves on the application.
 
-They will need to register by filling in the required information to get successfully
-
-registered. Once the medical professional has successfully registered he/she can lo-
-gin in to his/her account using the credentials provided. After login the person is
-
-directed to the Homepage of the application, it has several options to choose from
+They will need to register by filling in the required information to get successfully registered. Once the medical professional has successfully registered he/she can lo-
+gin in to his/her account using the credentials provided. After login the person is directed to the Homepage of the application, it has several options to choose from
 namely:
 1. Appointments
 2. E-Patient
