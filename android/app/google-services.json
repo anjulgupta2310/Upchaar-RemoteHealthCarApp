@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "985831706743",
+    "firebase_url": "https://doctor-healthcare-e07e1.firebaseio.com",
+    "project_id": "doctor-healthcare-e07e1",
+    "storage_bucket": "doctor-healthcare-e07e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985831706743:android:61e0ef0c044deb7b28b672",
+        "android_client_info": {
+          "package_name": "com.healthcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985831706743-jtfkbh300grvigo6voq6nsruhhhhjvd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK3c1MmbVSsYhPkIS-L6DRcKd5pXXtAYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985831706743-jtfkbh300grvigo6voq6nsruhhhhjvd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
