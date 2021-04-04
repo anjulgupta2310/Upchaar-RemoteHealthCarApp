@@ -2,8 +2,10 @@
 
 ## Framework
 
-* Ract native
-*Node Js
+* React Native
+* Node Js
+
+## Details
 
 This is a mobile based application in react-native language and database authentication from google firebase targeting both Android and IoS mo-
 bile devices. The thought process behind the application is to have an efficient and
